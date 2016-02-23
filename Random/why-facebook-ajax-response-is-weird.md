@@ -1,3 +1,4 @@
+Facebook ajax response will start like this `for (;;);{json data}` and it is weird.
 Facebook has a ton of developers working internally on a lot of projects, and it is very common for someone to make a minor mistake; whether it be something as simple and serious as failing to escape data inserted into an HTML or SQL template or something as intricate and subtle as using eval (sometimes inefficient and arguably insecure) or JSON.parse (a compliant but not universally implemented extension) instead of a "known good" JSON decoder, it is important to figure out ways to easily enforce best practices on this developer population.
 If Facebook enforce the rule that every ajax response start with `for(;;);`,, a developer can't be "lazy": they will notice **immediately** if they use eval(), wonder what is up, and then realize their mistake and use the approved JSON API.
 
