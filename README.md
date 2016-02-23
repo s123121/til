@@ -15,10 +15,19 @@ in the future.
 * [Rails](#rails)
 * [Ruby](#ruby)
 * [Random](#random)
+* [Unix](#unix)
 
 ---
 
 ### Java
+
+- [Compare time in different timezone](Java/compare-time-in-different-timezone.md)
+
+### Random
+- [Why Facebook ajax response are weird?](Random/why-facebook-ajax-response-is-weird.md)
+
+### Unix
+- [Send mail in Unix](Unix/send-mail-in-unix.md)
 
 ## About
 
