@@ -23,6 +23,9 @@ in the future.
 
 - [Compare time in different timezone](Java/compare-time-in-different-timezone.md)
 
+### Rails 
+- [Preconfigure database in Rails](Rails/specify-database-in-rails.md)
+
 ### Random
 - [Why Facebook ajax response are weird?](Random/why-facebook-ajax-response-is-weird.md)
 
