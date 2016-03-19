@@ -20,10 +20,12 @@ in the future.
 ---
 
 ### Java
-
 - [Compare time in different timezone](Java/compare-time-in-different-timezone.md)
 - [Pass by reference or pass by value](Java/pass-by-ref-or-pass-by-value.md)
 - [Should I use number when naming method?](Java/should-I-use-number-when-naming-method.md)
+
+### Javascript
+- [Imperative vs Declarative programming](Javascript/imperative-vs-declarative.md)
 
 ### Rails 
 - [Preconfigure database in Rails](Rails/specify-database-in-rails.md)
