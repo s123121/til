@@ -4,7 +4,7 @@ sudo yum install openssl openssl-devel
 sudo yum groupinstall "Development Tools"
 
 sudo yum install git-core
-git clone git://github.com/joyent/node.git
+git clone https://github.com/nodejs/node
 
 cd node
 ./configure
