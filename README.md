@@ -35,6 +35,8 @@ in the future.
 
 ### Unix
 - [Send mail in Unix](Unix/send-mail-in-unix.md)
+- [Install Node in EC2 instance](Unix/install-node-in-ec2.md)
+- [Linking service with start up state](Unix/linking-service-with-start-up-state.md)
 
 ## About
 
