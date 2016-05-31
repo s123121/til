@@ -32,6 +32,8 @@ in the future.
 
 ### Random
 - [Why Facebook ajax response are weird?](Random/why-facebook-ajax-response-is-weird.md)
+- [Increase performance with nginx](Random/enhance-performance-with-nginx.md)
+- [Zip bomb](Random/zip-bomb.md)
 
 ### Unix
 - [Send mail in Unix](Unix/send-mail-in-unix.md)
