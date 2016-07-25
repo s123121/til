@@ -16,6 +16,7 @@ in the future.
 * [Ruby](#ruby)
 * [Random](#random)
 * [Unix](#unix)
+* [Security](#security)
 
 ---
 
@@ -34,11 +35,16 @@ in the future.
 - [Why Facebook ajax response are weird?](Random/why-facebook-ajax-response-is-weird.md)
 - [Increase performance with nginx](Random/enhance-performance-with-nginx.md)
 - [Zip bomb](Random/zip-bomb.md)
+- [Crawl on cloud](Random/crawl-on-cloud.md)
+- [Nodejs ridiculous optimization](Random/nodejs-ridiculous-optimization.md)
 
 ### Unix
 - [Send mail in Unix](Unix/send-mail-in-unix.md)
 - [Install Node in EC2 instance](Unix/install-node-in-ec2.md)
 - [Linking service with start up state](Unix/linking-service-with-start-up-state.md)
+
+### Security
+- [Easy include script for hacking](Security/Easy-include-remote-file-for-hacking.md)
 
 ## About
 
